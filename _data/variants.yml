@@ -250,6 +250,6 @@
   name: "2048:Roman numerals edition"
   author: Daniel Barber
 
-- url: "http://cyberzhg.github.io/2048/index.html?size=8&mode=normal"
+- url: "http://cyberzhg.github.io/2048/index.html?size=8&mode=normal
   Name: "2147483648"
   author: cyberZHG shared by Daniel Barber
